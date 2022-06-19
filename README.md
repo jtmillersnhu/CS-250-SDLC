@@ -1,5 +1,5 @@
 # CS-250-SDLC
-CS-250 Software Development Lifecycle
+CS-250 Software Development Lifecycle \
 2022-06-18
 
 _How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?_ \
